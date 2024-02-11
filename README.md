@@ -2,7 +2,9 @@
 
 1- Nos Responsabilizamos Por cualquier error o daño que cause el bot.
 
-2- Sus datos no seran Comprartidos ni Guardados. 3- Usara Responsablemente el Bot.
+2- Sus datos no seran Comprartidos ni Guardados. 
+
+3- Usara Responsablemente el Bot.
 
 4- Las quejas Unicamente las recibira del creador del bot.
 
